@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning cybersecurity
 - 👯 I’m looking to collaborate on projects
-- 💬 Ask me about soc analysis
+- 💬 Ask me about soc automation
 - 📫 How to reach me: discord @maybewale | twitter @zinnitheplug
 
 
